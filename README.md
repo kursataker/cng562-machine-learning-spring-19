@@ -1,1 +1,1 @@
-Official repository for CENG 562 Spring 2019
+Official repository for CNG 562 Machine Learning Spring 2019 at METU NCC
